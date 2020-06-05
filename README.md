@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/XploitWizer/XploitSPY/raw/master/server/assets/webpublic/logo.png" height="60"><br>
+<img src="https://github.com/Piyush-Banik/H4CKINTO/raw/master/server/assets/webpublic/img/logo.png" height="60"><br>
 A cloud based Android Monitoring Tool, powered by NodeJS
 </p>
 
