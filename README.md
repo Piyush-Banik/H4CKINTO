@@ -24,6 +24,12 @@ A cloud based Android Monitoring Tool, powered by NodeJS
   
 ## Installation on VPS or Server
 
+[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/Piyush-Banik/H4CKINTO/master/app.json)
+
+[![Run on Google Cloud](https://deploy.cloud.run/button.svg)](https://deploy.cloud.run?git_repo=https://github.com/Piyush-Banik/H4CKINTO)
+
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fPiyush-Banik%2fH4CKINTO%2fmaster%2fazuredeploy.json)
+
 ## Prerequisites 
  - Java Runtime Environment 9 or above
  - NodeJs 
