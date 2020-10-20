@@ -49,5 +49,5 @@ It's recommended to run H4CKINTO behind a reverse proxy such as [NGINX](https://
 H4CKINTO is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
-<p align="center">Made with ❤️ By <a href="https://piyushbanik.rf.gd">Piyush Banik</a></p>
+<p align="center">Made with ❤️ By <a href="https://piyushbanik.online">Piyush Banik</a></p>
 
