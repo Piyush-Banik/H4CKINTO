@@ -2,7 +2,7 @@ const path = require('path');
 
 exports.debug = false;
 
-exports.web_port = 94;
+exports.web_port = 9400;
 exports.control_port = 22222;
 
 // Paths
