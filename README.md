@@ -47,6 +47,7 @@ It's recommended to run H4CKINTO behind a reverse proxy such as [NGINX](https://
   <strong> Run this Commands </strong>
   - npm i
   - npm start
+<h4>"Don't forget to run these commands in root folder of <strong>H4CKINTO</strong>, or else it will not work."</h4>
 
 
 ## Disclaimer
