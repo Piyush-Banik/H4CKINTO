@@ -43,6 +43,11 @@ It's recommended to run H4CKINTO behind a reverse proxy such as [NGINX](https://
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
+## Installation
+  <strong> Run this Commands </strong>
+  - npm i
+  - npm start
+
 
 ## Disclaimer
 <b>Piyush Banik Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
