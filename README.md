@@ -56,5 +56,5 @@ H4CKINTO is built for Educational Purpose. Use at your own Risk.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://piyushbanik.online">Piyush Banik</a></p>
-<a href="https://www.buymeacoffee.com/PiyushBanik"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=PiyushBanik&button_colour=ff0000&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00"></a>
+<a align="center" href="https://www.buymeacoffee.com/PiyushBanik"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=PiyushBanik&button_colour=ff0000&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00"></a>
 
