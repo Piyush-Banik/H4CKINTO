@@ -30,6 +30,8 @@ A cloud based Android Monitoring Tool, powered by NodeJS
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3a%2f%2fraw.githubusercontent.com%2fPiyush-Banik%2fH4CKINTO%2fmaster%2fazuredeploy.json)
 
+[![Deploy](https://deploy.zeet.co/H4CKINTO.svg)](https://deploy.zeet.co/?url=https://github.com/Piyush-Banik/H4CKINTO)
+
 ## Prerequisites 
  - Java Runtime Environment 9 or above
  - NodeJs 
