@@ -1,4 +1,3 @@
-[![Board Status](https://dev.azure.com/salihtab13/ac78340a-d355-4cc3-8bcc-2b784d8facf1/09225eca-9d32-4a42-8049-6730c2ee66ec/_apis/work/boardbadge/936e1e04-b6ae-4b42-b0f7-0f129e18b262)](https://dev.azure.com/salihtab13/ac78340a-d355-4cc3-8bcc-2b784d8facf1/_boards/board/t/09225eca-9d32-4a42-8049-6730c2ee66ec/Microsoft.RequirementCategory)
 <p align="center">
 <img src="https://github.com/Piyush-Banik/H4CKINTO/raw/master/server/assets/webpublic/img/logo.png" height="60"><br>
 A cloud based Android Monitoring Tool, powered by NodeJS
